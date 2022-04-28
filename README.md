@@ -1,2 +1,2 @@
 # Mr.-Brix
-The repositor
+The repository I made for the game, Mr. Brix
